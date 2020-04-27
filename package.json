@@ -1,16 +1,10 @@
 {
-  "name": "scan-agent",
-  "version": "0.1.0",
+  "name": "Sca-Root",
+  "version": "1.0.1",
   "private": true,
   "dependencies": {
-    "bootstrap-datepicker": "1.6.4",
-    "commander": "2.20.1"
-  },
-  "scripts": {
-    "start": "react-scripts-ts start",
-    "build": "react-scripts-ts build",
-    "test": "react-scripts-ts test --env=jsdom",
-    "eject": "react-scripts-ts eject"
+    "lodash": "2.4.2",
+    "handlebars": "4.0.5"
   },
   "devDependencies": {
     "i18next": "1.10.3",
