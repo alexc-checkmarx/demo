@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "lodash": "2.4.2",
-    "handlebars": "4.0.5"
+    "handlebars": "4.5.3"
   },
   "devDependencies": {
     "i18next": "1.10.3",
